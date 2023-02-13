@@ -1,0 +1,4 @@
+train: ../datasets
+val: ../datasets
+nc: 1
+names: ['person']
